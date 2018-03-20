@@ -1,2 +1,2 @@
 # mrgn-w.github.io
-Personal website
+Personal website -- Pardon my progress
